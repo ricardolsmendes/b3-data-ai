@@ -1,0 +1,2 @@
+databricks-langchain ~=0.3.0
+yfinance ~=0.2.63
